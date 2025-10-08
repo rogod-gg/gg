@@ -4,3 +4,6 @@ AGE_ACCS = {
 RIO_ACCS = {
   "emrekarseal", "emrekario", "emrekario2", "emrekario3", "emrekario4", "emrekario5"
 }
+LITE_RIO_ACCS = {
+
+}
