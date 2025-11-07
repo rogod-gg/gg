@@ -8,3 +8,9 @@ RIO_ACCS = {
 LITE_RIO_ACCS = {
 
 }
+WEIGHT_ACCS = {
+
+}
+ASCENSION_ACCS = {
+
+}
